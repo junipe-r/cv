@@ -1,1 +1,1 @@
-# https://junipe-r.github.io/cv/
+# https://junipe-r.github.io/cv/cv
